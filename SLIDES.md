@@ -17,13 +17,17 @@ center: true
 
 # My first markdown slideshow
 
-Author: Your Name
+Author: Forrest Francis
 
 ## Agenda
 
 1. Markdown is easy to read
 2. Markdown is easy to write
 3. Let's use it for presentations
+
+## This is a test slide
+
+Markdown all over the place
 
 ## The End
 
